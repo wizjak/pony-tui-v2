@@ -1,0 +1,4001 @@
+{
+	"page": {
+		"pageTitle": " - Ember's MLP:FiM Archive"
+	},
+	"series": {
+		"titleFull": "My Little Pony: Friendship is Magic",
+		"titleAbbrev": "MLP:FiM",
+		"vidPath": "https://static.heartshine.gay/g4-fim/",
+		"vttPath": "https://static.heartshine.gay/g4-fim/vtt/",
+		"vidRes": [
+			480,
+			720,
+			1080
+		],
+		"vidRatio": 1.7777,
+		"seasons": [
+			{
+				"seasNum": 1,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "Friendship is Magic, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Friendship is Magic, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "The Ticket Master",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Applebuck Season",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Griffon the Brush-Off",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Boast Busters",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Dragonshy",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "Look Before You Sleep",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Bridle Gossip",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Swarm of the Century",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Winter Wrap Up",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Call of the Cutie",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "Fall Weather Friends",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 14,
+						"epTitle": "Suited for Success",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 15,
+						"epTitle": "Feeling Pinkie Keen",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 16,
+						"epTitle": "Sonic Rainboom",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 17,
+						"epTitle": "Stare Master",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 18,
+						"epTitle": "The Show Stoppers",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 19,
+						"epTitle": "A Dog and Pony Show",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 20,
+						"epTitle": "Green Isn't Your Color",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 21,
+						"epTitle": "Over a Barrel",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 22,
+						"epTitle": "A Bird in the Hoof",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 23,
+						"epTitle": "The Cutie Mark Chronicles",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 24,
+						"epTitle": "Owl's Well That Ends Well",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 25,
+						"epTitle": "Party of One",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 26,
+						"epTitle": "The Best Night Ever",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 2,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "The Return of Harmony, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "The Return of Harmony, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Lesson Zero",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Luna Eclipsed",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Sisterhooves Social",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "The Cutie Pox",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "May the Best Pet Win!",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "The Mysterious Mare Do Well",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Sweet and Elite",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Secret of My Excess",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Hearth's Warming Eve",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Family Appreciation Day",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "Baby Cakes",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 14,
+						"epTitle": "The Last Roundup",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 15,
+						"epTitle": "The Super Speedy Cider Squeezy 6000",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 16,
+						"epTitle": "Read It and Weep",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 17,
+						"epTitle": "Hearts and Hooves Day",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 18,
+						"epTitle": "A Friend in Deed",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 19,
+						"epTitle": "Putting Your Hoof Down",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 20,
+						"epTitle": "It's About Time",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 21,
+						"epTitle": "Dragon Quest",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 22,
+						"epTitle": "Hurricane Fluttershy",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 23,
+						"epTitle": "Ponyville Confidential",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 24,
+						"epTitle": "MMMystery on the Friendship Express",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 25,
+						"epTitle": "A Canterlot Wedding, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 26,
+						"epTitle": "A Canterlot Wedding, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 3,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "The Crystal Empire, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "The Crystal Empire, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Too Many Pinkie Pies",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "One Bad Apple",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Magic Duel",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Sleepless in Ponyville",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Wonderbolts Academy",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "Apple Family Reunion",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Spike at Your Service",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Keep Calm and Flutter On",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Just for Sidekicks",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Games Ponies Play",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "Magical Mystery Cure",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 4,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "Princess Twilight Sparkle, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Princess Twilight Sparkle, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Castle Mane-ia",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Daring Don't",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Flight to the Finish",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Power Ponies",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Bats!",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "Rarity Takes Manehattan",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Pinkie Apple Pie",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Rainbow Falls",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Three's a Crowd",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Pinkie Pride",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "Simple Ways",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 14,
+						"epTitle": "Filli Vanilli",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 15,
+						"epTitle": "Twilight Time",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 16,
+						"epTitle": "It Ain't Easy Being Breezies",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 17,
+						"epTitle": "Somepony to Watch Over Me",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 18,
+						"epTitle": "Maud Pie",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 19,
+						"epTitle": "For Whom the Sweetie Belle Toils",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 20,
+						"epTitle": "Leap of Faith",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 21,
+						"epTitle": "Testing Testing 1, 2, 3",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 22,
+						"epTitle": "Trade Ya!",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 23,
+						"epTitle": "Inspiration Manifestation",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 24,
+						"epTitle": "Equestria Games",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 25,
+						"epTitle": "Twilight's Kingdom, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 26,
+						"epTitle": "Twilight's Kingdom, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 5,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "The Cutie Map, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "The Cutie Map, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Castle Sweet Castle",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Bloom & Gloom",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Tanks for the Memories",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Appleoosa's Most Wanted",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Make New Friends but Keep Discord",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "The Lost Treasure of Griffonstone",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Slice of Life",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Princess Spike",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Party Pooped",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Amending Fences",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "Do Princesses Dream of Magic Sheep?",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 14,
+						"epTitle": "Canterlot Boutique",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 15,
+						"epTitle": "Rarity Investigates!",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 16,
+						"epTitle": "Made in Manehattan",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 17,
+						"epTitle": "Brotherhooves Social",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 18,
+						"epTitle": "Crusaders of the Lost Mark",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 19,
+						"epTitle": "The One Where Pinkie Pie Knows",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 20,
+						"epTitle": "Hearthbreakers",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 21,
+						"epTitle": "Scare Master",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 22,
+						"epTitle": "What About Discord?",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 23,
+						"epTitle": "The Hooffields and McColts",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 24,
+						"epTitle": "The Mane Attraction",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 25,
+						"epTitle": "The Cutie Re-Mark, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 26,
+						"epTitle": "The Cutie Re-Mark, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 6,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "The Crystalling, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "The Crystalling, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "The Gift of the Maud Pie",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "On Your Marks",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Gauntlet of Fire",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "No Second Prances",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Newbie Dash",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "A Hearth's Warming Tail",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "The Saddle Row Review",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Applejack's \"Day\" Off",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Flutter Brutter",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Spice Up Your Life",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "Stranger Than Fan Fiction",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 14,
+						"epTitle": "The Cart Before the Ponies",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 15,
+						"epTitle": "28 Pranks Later",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 16,
+						"epTitle": "The Times They Are a Changeling",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 17,
+						"epTitle": "Dungeons & Discords",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 18,
+						"epTitle": "Buckball Season",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 19,
+						"epTitle": "The Fault in Our Cutie Marks",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 20,
+						"epTitle": "Viva Las Pegasus",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 21,
+						"epTitle": "Every Little Thing She Does",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 22,
+						"epTitle": "P.P.O.V. (Pony Point of View)",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 23,
+						"epTitle": "Where the Apple Lies",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 24,
+						"epTitle": "Top Bolt",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 25,
+						"epTitle": "To Where and Back Again, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 26,
+						"epTitle": "To Where and Back Again, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 7,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "Celestial Advice",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "All Bottled Up",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "A Flurry of Emotions",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Rock Solid Friendship",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Fluttershy Leans In",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Forever Filly",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Parental Glideance",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "Hard to Say Anything",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Honest Apple",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "A Royal Problem",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Not Asking for Trouble",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Discordant Harmony",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "The Perfect Pear",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 14,
+						"epTitle": "Fame and Misfortune",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 15,
+						"epTitle": "Triple Threat",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 16,
+						"epTitle": "Campfire Tales",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 17,
+						"epTitle": "To Change a Changeling",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 18,
+						"epTitle": "Daring Done?",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 19,
+						"epTitle": "It Isn't the Mane Thing About You",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 20,
+						"epTitle": "A Health of Information",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 21,
+						"epTitle": "Marks and Recreation",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 22,
+						"epTitle": "Once Upon a Zeppelin",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 23,
+						"epTitle": "Secrets and Pies",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 24,
+						"epTitle": "Uncommon Bond",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 25,
+						"epTitle": "Shadow Play, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 26,
+						"epTitle": "Shadow Play, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 8,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "School Daze, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "School Daze, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "The Maud Couple",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Fake It 'Til You Make It",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Grannies Gone Wild",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Surf and/or Turf",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Horse Play",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "The Parent Map",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Non-Compete Clause",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "The Break Up Break Down",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Molt Down",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Marks for Effort",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "The Mean 6",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 14,
+						"epTitle": "A Matter of Principals",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 15,
+						"epTitle": "The Hearth's Warming Club",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 16,
+						"epTitle": "Friendship University",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 17,
+						"epTitle": "The End in Friend",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 18,
+						"epTitle": "Yakity-Sax",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 19,
+						"epTitle": "Road to Friendship",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 20,
+						"epTitle": "The Washouts",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 21,
+						"epTitle": "A Rockhoof and a Hard Place",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 22,
+						"epTitle": "What Lies Beneath",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 23,
+						"epTitle": "Sounds of Silence",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 24,
+						"epTitle": "Father Knows Beast",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 25,
+						"epTitle": "School Raze, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 26,
+						"epTitle": "School Raze, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 9,
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "The Beginning of the End, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "The Beginning of the End, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Uprooted",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Sparkle's Seven",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "The Point of No Return",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Common Ground",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "She's All Yak",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "Frenemies",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Sweet and Smoky",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Going to Seed",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Student Counsel",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 12,
+						"epTitle": "The Last Crusade",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 13,
+						"epTitle": "Between Dark and Dawn",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 14,
+						"epTitle": "The Last Laugh",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 15,
+						"epTitle": "2, 4, 6, Greaaat",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 16,
+						"epTitle": "A Trivial Pursuit",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 17,
+						"epTitle": "The Summer Sun Setback",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 18,
+						"epTitle": "She Talks to Angel",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 19,
+						"epTitle": "Dragon Dropped",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 20,
+						"epTitle": "A Horse Shoe-In",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 21,
+						"epTitle": "Daring Doubt",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 22,
+						"epTitle": "Growing Up is Hard to Do",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 23,
+						"epTitle": "The Big Mac Question",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 24,
+						"epTitle": "The Ending of the End, Part 1",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 25,
+						"epTitle": "The Ending of the End, Part 2",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 26,
+						"epTitle": "The Last Problem",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 10,
+				"seasName": "Movies",
+				"episodes":[
+					{
+						"epNum": 1,
+						"epTitle": "My Little Pony: The Movie (Original Intro Edit)",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							}
+						],
+						"vidRatio": 2.4,
+						"vidHeight":{
+							"1080": 800
+						}
+					},
+					{
+						"epNum": 2,
+                                                "epTitle": "My Little Pony: The Movie (Theatrical Release)",
+                                                "epSubs": [
+                                                        {
+                                                                "lang": "en",
+                                                                "label": "English"
+                                                        },
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+                                                ],
+                                                "vidRatio": 2.4,
+                                                "vidHeight":{
+                                                        "1080": 800
+                                                }
+                                        }
+				]
+			},
+			{
+				"seasNum": 11,
+				"seasName": "Specials",
+				"episodes":[
+					{
+						"epNum": 1,
+						"epTitle": "The Best Gift Ever",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Rainbow Roadtrip"
+					}
+				]
+			},
+			{
+				"seasNum": 12,
+				"seasName": "Shorts",
+				"episodes":[
+					{
+						"epNum": 1,
+						"epTitle": "Best Gift Ever: Triple Pony Dare Ya"
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Best Gift Ever: The Great Escape Room"
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Best Gift Ever: Mystery Voice"
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Rarity's Biggest Fan",
+						"vidRes": [
+							480,
+							720
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Ail-icorn",
+						"vidRes": [
+							480,
+							720
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Teacher of the Month",
+						"vidRes": [
+							480,
+							720
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Starlight the Hypnotist",
+						"vidRes": [
+							720
+						]
+					},
+					{
+						"epNum": 8,
+						"epTitle": "Sundae, Sundae, Sundae",
+						"vidRes": [
+							480,
+							720
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 13,
+				"seasName": "Clip Shows",
+				"episodes":[
+					{
+						"epNum": 1,
+						"epTitle": "A-Dressing Memories",
+						"vidRes": [
+							480,
+							720
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Cakes for the Memories",
+						"vidRes": [
+							480,
+							720
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Memnagerie",
+						"vidRes": [
+							480,
+							720
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Deep Tissue Memories",
+						"vidRes": [
+							480,
+							720
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Harvesting Memories",
+						"vidRes": [
+							480,
+							720
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Memories and More",
+						"vidRes": [
+							480,
+							720
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 14,
+				"seasName": "Claymation Shorts",
+				"episodes":[
+					{
+						"epNum": 1,
+						"epTitle": "Potion Party"
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Cake Off"
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Fashion Failure"
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Valentine's Day Card"
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Pillow Fight"
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Ice & Slice"
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Snow Pony Contest"
+					},
+					{
+						"epNum": 8,
+						"epTitle": "Pie Assembly Line"
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Snowball Fight"
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Magician Pinkie Pie"
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Pinkie Pie Wants to Play!"
+					},
+					{
+						"epNum": 12,
+						"epTitle": "Pinkie Pie vs the Flowers"
+					},
+					{
+						"epNum": 13,
+						"epTitle": "Rarity's Paintful Pony Portrait"
+					},
+					{
+						"epNum": 14,
+						"epTitle": "Rainy Day Puddle Play"
+					},
+					{
+						"epNum": 15,
+						"epTitle": "Fluttershy's Hiccups"
+					},
+					{
+						"epNum": 16,
+						"epTitle": "Gem of a Problem"
+					},
+					{
+						"epNum": 17,
+						"epTitle": "Dance Dance"
+					},
+					{
+						"epNum": 18,
+						"epTitle": "Volleyball Game Between Rainbow Dash and Applejack"
+					},
+					{
+						"epNum": 19,
+						"epTitle": "DIY with My Little Pony - Carving Contest"
+					},
+					{
+						"epNum": 20,
+						"epTitle": "The Great Race"
+					},
+					{
+						"epNum": 21,
+						"epTitle": "Book Filled Adventure"
+					},
+					{
+						"epNum": 22,
+						"epTitle": "Hat in the Way"
+					},
+					{
+						"epNum": 23,
+						"epTitle": "Pony Life - New Series!"
+					}
+				]
+			}
+		]
+	}
+}
